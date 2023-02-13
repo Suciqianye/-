@@ -58,4 +58,5 @@ cnpm install axios
 
 ## 特别鸣谢
 1.[AnimeTrace](https://ai.animedb.cn/)_提供的人物识别功能
+<br>
 2.[@地球生物](https://gitee.com/jiang-zhitao-1)_提供的开发
