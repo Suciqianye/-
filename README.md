@@ -51,6 +51,11 @@ cnpm install axios
 ### 第二步
 
 ```
-git clone -b js-version --depth=1 https://gitee.com/shuciqianye/yunzai-AnimeTrace.git ./plugin/WeLM-plugin
+下载压缩包解压将js放到Yunzai-Bot\plugins\example重启即可
 ```
-敬请期待
+## 反馈
+如果您在使用过程中有更好的建议，或者是功能反馈，可添加1061385377群聊或提交lssues反馈您的意见或者是问题
+
+## 特别鸣谢
+1.[AnimeTrace](https://ai.animedb.cn/)_提供的人物识别功能
+2.[@地球生物](https://gitee.com/jiang-zhitao-1)_提供的开发
