@@ -57,6 +57,6 @@ cnpm install axios
 如果您在使用过程中有更好的建议，或者是功能反馈，可添加1061385377群聊或提交lssues反馈您的意见或者是问题
 
 ## 特别鸣谢
-1.[AnimeTrace](https://ai.animedb.cn/)_提供的人物识别功能
+1.[AnimeTrace](https://ai.animedb.cn/)网站提供的人物识别功能
 <br>
-2.[@地球生物](https://gitee.com/jiang-zhitao-1)_提供的开发
+2.[@地球生物](https://gitee.com/jiang-zhitao-1)提供的开发
