@@ -51,6 +51,6 @@ cnpm install axios
 ### 第二步
 
 ```
-git clone -b js-version --depth=1 https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/ ./plugin/WeLM-plugin
+git clone -b js-version --depth=1 https://gitee.com/shuciqianye/yunzai-AnimeTrace.git ./plugin/WeLM-plugin
 ```
 敬请期待
