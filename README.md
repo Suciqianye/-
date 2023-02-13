@@ -11,6 +11,7 @@
 ### #游戏识别
 ![](5502.jpg)
 
+
 ## 当前问题
 ![](5503.jpg)
 
@@ -31,5 +32,25 @@
 
 ## 安装教程
 
+### 第一步
+本插件需要axios的支持，如果您已安装axios可跳过本步骤，如果您未安装，请执行一下指令安装axios。
+<br>
+pnpm可能会掉依赖，希望你不要中奖
+``` 
+pnpm add axios -w
+```
+npm可能连不上
+```
+npm install axios 
+```
+cnpm需要提前安装(指令已经在下面了可以直接复制一键执行)
+```
+pnpm install -g cnpm -registry=https://registry.npm.taobao.org
+cnpm install axios
+```
+### 第二步
 
+```
+git clone -b js-version --depth=1 https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/ ./plugin/WeLM-plugin
+```
 敬请期待
