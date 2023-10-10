@@ -50,16 +50,16 @@
 <br>
 pnpm可能会掉依赖，希望你不要中奖
 ``` 
-pnpm add axios -w
+pnpm add axios form-data -w
 ```
 npm可能连不上
 ```
-npm install axios 
+npm install axios form-data
 ```
 cnpm需要提前安装(指令已经在下面了可以直接复制一键执行)
 ```
 pnpm install -g cnpm -registry=https://registry.npm.taobao.org
-cnpm install axios
+cnpm install axios form-data
 ```
 ### 第二步
 
